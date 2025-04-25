@@ -1,0 +1,7 @@
+{
+	"parent": "item/pack_gen_door",
+	"textures": {
+		"bottom": "block/cherry_door_bottom",
+		"top": "block/cherry_door_top"
+	}
+}

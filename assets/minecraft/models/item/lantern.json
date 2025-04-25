@@ -1,0 +1,6 @@
+{
+  "parent": "item/pack_gen_lantern",
+  "textures": {
+    "tex": "block/lantern"
+  }
+}

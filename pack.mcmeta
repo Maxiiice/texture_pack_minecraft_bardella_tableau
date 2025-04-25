@@ -1,0 +1,7 @@
+ {
+	"pack": {
+		"pack_format": 16,
+		"supported_formats": {"min_inclusive": 4, "max_inclusive": 999},
+		"description": "§f§l[FULL]\n§f§l[128x] §8§lillystray.com"
+	}
+}

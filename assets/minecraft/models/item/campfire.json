@@ -1,0 +1,7 @@
+{
+  "parent": "item/pack_gen_campfire",
+  "textures": {
+    "lit_log": "minecraft:block/campfire_log_lit",
+    "fire": "minecraft:block/campfire_fire"
+  }
+}
